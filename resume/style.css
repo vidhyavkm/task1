@@ -1,0 +1,46 @@
+.h1{
+    justify-content: center;
+}
+table th,td{
+    border:2px solid grey;
+    width:inherit;
+    justify-content: center;
+}
+label{
+    font-weight: bolder;
+}
+label{
+    font-size:larger;
+    font-family: cursive;
+    font-weight: bolder;
+    text-decoration-style: solid;
+    justify-content: center;
+}
+.container {
+    max-width: 700px;   
+    background: #fff;
+    margin: 0px auto 0px; 
+    box-shadow: 1px 1px 2px #DAD7D7;
+    border-radius: 3px;  
+    padding: 40px;
+    margin-top: 50px;
+  }
+  .full-name {
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+  }
+  
+  .first-name {
+    font-weight: 700;
+  }
+  
+  .last-name {
+    font-weight: 300;
+  }
+  .separator {
+    height: 10px;
+    display: inline-block;
+    border-left: 2px solid #999;
+    margin: 0px 10px;
+  }
